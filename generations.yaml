@@ -1,0 +1,16 @@
+references:
+  - "https://en.wikipedia.org/wiki/Buick_Enclave"
+
+generations:
+  - name: "First Generation"
+    start_year: 2008
+    end_year: 2017
+    description: "On the Lambda platform with the 3.6 L V6."
+  - name: "Second Generation"
+    start_year: 2018
+    end_year: 2024
+    description: "On the C1XX platform shared with the Traverse, with the 3.6 L V6."
+  - name: "Third Generation"
+    start_year: 2025
+    end_year: null
+    description: "With the 2.5 L turbo four-cylinder."
