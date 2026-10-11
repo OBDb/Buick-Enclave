@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.22000D
+test_cases:
+- expected_values:
+    ENCLAVE_VSS: 0
+  response: 7E80462000D00
+- expected_values:
+    ENCLAVE_VSS: 3
+  response: 7E80462000D03
+- expected_values:
+    ENCLAVE_VSS: 4
+  response: 7E80462000D04
+- expected_values:
+    ENCLAVE_VSS: 10
+  response: 7E80462000D0A
+- expected_values:
+    ENCLAVE_VSS: 21
+  response: 7E80462000D15
+- expected_values:
+    ENCLAVE_VSS: 51
+  response: 7E80462000D33
+- expected_values:
+    ENCLAVE_VSS: 58
+  response: 7E80462000D3A
+- expected_values:
+    ENCLAVE_VSS: 62
+  response: 7E80462000D3E
+- expected_values:
+    ENCLAVE_VSS: 63
+  response: 7E80462000D3F
+- expected_values:
+    ENCLAVE_VSS: 67
+  response: 7E80462000D43

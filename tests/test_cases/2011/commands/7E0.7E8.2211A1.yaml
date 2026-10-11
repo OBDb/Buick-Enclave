@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.2211A1
+test_cases:
+- expected_values:
+    ENCLAVE_RUNTM: 239
+  response: 7E8056211A100EF
+- expected_values:
+    ENCLAVE_RUNTM: 338
+  response: 7E8056211A10152
+- expected_values:
+    ENCLAVE_RUNTM: 398
+  response: 7E8056211A1018E
+- expected_values:
+    ENCLAVE_RUNTM: 410
+  response: 7E8056211A1019A
+- expected_values:
+    ENCLAVE_RUNTM: 490
+  response: 7E8056211A101EA
